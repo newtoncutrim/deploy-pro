@@ -152,7 +152,7 @@ jobs:
           docker tag $FRONTEND:$SHA $ECR/$FRONTEND:latest
           docker push $ECR/$FRONTEND:$SHA
           docker push $ECR/$FRONTEND:latest
-
+#
 # ════════════════════════════════════════════════════════
 # TIER 4 — Deploy na EC2
 # ════════════════════════════════════════════════════════
