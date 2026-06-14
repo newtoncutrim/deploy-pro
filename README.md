@@ -8,7 +8,7 @@ Stack: Node.js + Express · PostgreSQL · HTML/JS · Docker · GitHub Actions
 
 ## Pré-requisitos
 
-- [Docker](https://docs.docker.com/get-docker/) e Docker Compose
+- [Docker](https://docs.docker.com/get-docker/) e Docker Compose.
 
 ---
 
