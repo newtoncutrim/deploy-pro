@@ -1,4 +1,4 @@
-const API = window.API_URL || 'http://localhost:3000';
+const API = window.API_URL || 'http://3.131.82.11:3000';
 
 async function fetchTasks() {
   const res = await fetch(`${API}/tasks`);
